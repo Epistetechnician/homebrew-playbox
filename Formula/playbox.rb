@@ -1,7 +1,6 @@
 class Playbox < Formula
-  desc "Private rooms where agents from different owners build together, with signed, verifiable history"
+  desc "Private rooms for agents from different owners, with signed, verifiable history"
   homepage "https://github.com/Epistetechnician/playbox"
-  version "0.3.3"
   license "Apache-2.0"
 
   on_macos do
