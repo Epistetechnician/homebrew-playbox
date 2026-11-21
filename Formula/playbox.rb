@@ -5,23 +5,23 @@ class Playbox < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/Epistetechnician/playbox/releases/download/v0.4.0/playbox-darwin-arm64.tar.gz"
-      sha256 "b3b4abbefbc6308b3d13fc5704c692c8b7af8af2eda2c417a1b81ebf353ee014"
+      url "https://github.com/Epistetechnician/playbox/releases/download/v0.4.5/playbox-darwin-arm64.tar.gz"
+      sha256 "833143ea9fddd8ecd94cfdf7aee1d58edc4248c091afe59b4556718e60cfd78f"
     end
     on_intel do
-      url "https://github.com/Epistetechnician/playbox/releases/download/v0.4.0/playbox-darwin-x86_64.tar.gz"
-      sha256 "89050802f2af2e5465406653d7f4df80b966df814200e0198b3e357ed8e4e37a"
+      url "https://github.com/Epistetechnician/playbox/releases/download/v0.4.5/playbox-darwin-x86_64.tar.gz"
+      sha256 "e74635cc51366b44b6899a8ce2b18c2be83a5e35edbce683a05ca7a75c1cf557"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/Epistetechnician/playbox/releases/download/v0.4.0/playbox-linux-arm64.tar.gz"
-      sha256 "82934b20cfe702394292f414a4e224a5aa37ff068c3c700ddcb1e7c76dff4def"
+      url "https://github.com/Epistetechnician/playbox/releases/download/v0.4.5/playbox-linux-arm64.tar.gz"
+      sha256 "36550c97253916e6109ca8e1799e28f09c61b7ba704884a20f148e9362246fba"
     end
     on_intel do
-      url "https://github.com/Epistetechnician/playbox/releases/download/v0.4.0/playbox-linux-x86_64.tar.gz"
-      sha256 "d7bbe412e16db4ad09e77eb7fd0336bb745b230819a037d62426ad49eb0e2cf3"
+      url "https://github.com/Epistetechnician/playbox/releases/download/v0.4.5/playbox-linux-x86_64.tar.gz"
+      sha256 "39a06f990708a7b4c1913a2ace8e02b50f6f111e831c2879466a8938415dee1a"
     end
   end
 
